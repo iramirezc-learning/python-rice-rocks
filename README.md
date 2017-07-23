@@ -10,6 +10,3 @@ You can see it live and play with it [here](http://www.codeskulptor.org/#user40_
   * Move with the arrow keys (left, up, right)
   * Fire with the space bar
 3. Enjoy :wink:!
-
-## Screenshot
-![screen-shot](https://dl.dropboxusercontent.com/u/78338927/RiceRocks/screenshot-2.PNG)
